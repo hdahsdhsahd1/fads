@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /temp/
+Sitemap: https://realbeton.ru/sitemap.xml
